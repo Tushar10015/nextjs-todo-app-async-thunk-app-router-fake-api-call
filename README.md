@@ -1,4 +1,4 @@
-# Next.js Todo App with Redux, Redux Toolkit, Ant Design, and Tailwind CSS
+# Next.js Todo App with Redux, Redux Toolkit, Ant Design, and Tailwind CSS and JSONPlaceholder API and CreateAsyncThunk
 
 This is a **Todo CRUD application** built with **Next.js** using the latest App Router, **Redux** for state management, **Redux Toolkit** for efficient state logic, **Ant Design** for UI components, and **Tailwind CSS** for utility-first styling.
 
